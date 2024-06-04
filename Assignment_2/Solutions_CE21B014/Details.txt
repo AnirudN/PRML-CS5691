@@ -1,0 +1,19 @@
+Author:
+Anirud N CE21B014
+
+The assignment was done using python notebook
+
+The source codes:
+Question 1:
+ 
+This is divided into 3 parts.
+QUESTION_1_PART i.ipynb contains the source code for part i of the question 1
+QUESTION_1_PART ii.ipynb contains the source code for part ii of the question 1
+QUESTION_1_PART iii.ipynb contains the source code for part iii of the question 1
+The part 4 of the quesion 1 has codes in the above 3 files.
+
+Question 2:
+
+QUESTION_2.ipynb contains the codes for all the 4 subdivisions of question 2
+
+Report.pdf is the pdf file that contains the report for the assignment
